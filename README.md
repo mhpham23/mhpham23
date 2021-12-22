@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hoan @mhpham23
 - 👀 I’m interested in robotics, computer vision, AI and Machine Learning
 - 🌱 I’m currently learning Computer Engineering - Machine Learning
-- 💞️ I’m looking to collaborate on computer vision, AI/ML projects
+- 💞️ I’m looking to collaborate on computer vision, AI/ML, embedded systems, hardware development projects
 - 📫 How to reach me: 
  + IG @minhhoanw
  + mhpham23@vt.edu
